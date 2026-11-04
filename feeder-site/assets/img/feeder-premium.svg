@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-labelledby="t">
+  <title id="t">프리미엄형 자동급식기 일러스트 (임시 이미지)</title>
+  <defs>
+    <linearGradient id="p-body" x1="0" x2="1">
+      <stop offset="0" stop-color="#F3EEE6"/><stop offset=".5" stop-color="#DCD2C4"/><stop offset="1" stop-color="#B5A796"/>
+    </linearGradient>
+    <linearGradient id="p-lid" x1="0" x2="1">
+      <stop offset="0" stop-color="#4A443C"/><stop offset=".6" stop-color="#2E2B26"/><stop offset="1" stop-color="#1D1B18"/>
+    </linearGradient>
+    <linearGradient id="p-steel" x1="0" x2="1">
+      <stop offset="0" stop-color="#ECE9E4"/><stop offset=".3" stop-color="#BDB7AE"/><stop offset=".55" stop-color="#F6F4F0"/><stop offset="1" stop-color="#9C958B"/>
+    </linearGradient>
+    <radialGradient id="p-lens" cx=".38" cy=".35" r=".7">
+      <stop offset="0" stop-color="#4C5257"/><stop offset=".45" stop-color="#1E2124"/><stop offset="1" stop-color="#0D0E0F"/>
+    </radialGradient>
+    <linearGradient id="p-win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#292722" stop-opacity=".10"/><stop offset="1" stop-color="#292722" stop-opacity=".28"/>
+    </linearGradient>
+    <radialGradient id="p-shadow">
+      <stop offset="0" stop-color="#292722" stop-opacity=".36"/><stop offset="1" stop-color="#292722" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="200" cy="476" rx="160" ry="18" fill="url(#p-shadow)"/>
+  <rect x="96" y="96" width="208" height="372" rx="44" fill="url(#p-body)"/>
+  <rect x="104" y="118" width="8" height="320" rx="4" fill="#fff" opacity=".45"/>
+  <rect x="90" y="70" width="220" height="52" rx="26" fill="url(#p-lid)"/>
+  <rect x="104" y="77" width="140" height="4" rx="2" fill="#fff" opacity=".18"/>
+  <rect x="142" y="140" width="116" height="66" rx="33" fill="#292722"/>
+  <circle cx="178" cy="173" r="22" fill="#151413" stroke="#6B5B4C" stroke-width="1.5"/>
+  <circle cx="178" cy="173" r="14" fill="url(#p-lens)"/>
+  <circle cx="173" cy="168" r="3.5" fill="#fff" opacity=".7"/>
+  <circle cx="183" cy="178" r="1.5" fill="#9FB3C4" opacity=".6"/>
+  <circle cx="226" cy="173" r="4" fill="#E9C99B"/>
+  <circle cx="226" cy="173" r="9" fill="#E9C99B" opacity=".18"/>
+  <rect x="134" y="226" width="132" height="104" rx="24" fill="url(#p-win)"/>
+  <g fill="#6B5B4C" opacity=".45">
+    <ellipse cx="160" cy="312" rx="7" ry="5"/><ellipse cx="176" cy="318" rx="7" ry="5"/><ellipse cx="193" cy="310" rx="7" ry="5"/>
+    <ellipse cx="210" cy="318" rx="7" ry="5"/><ellipse cx="227" cy="311" rx="7" ry="5"/><ellipse cx="243" cy="317" rx="7" ry="5"/>
+    <ellipse cx="185" cy="301" rx="7" ry="5"/><ellipse cx="219" cy="300" rx="7" ry="5"/>
+  </g>
+  <path d="M124 362h152a22 22 0 0 1 22 22v72H102v-72a22 22 0 0 1 22-22z" fill="#292722" opacity=".1"/>
+  <rect x="182" y="364" width="36" height="20" rx="7" fill="#292722" opacity=".28"/>
+  <ellipse cx="200" cy="452" rx="80" ry="20" fill="url(#p-steel)"/>
+  <ellipse cx="200" cy="448" rx="63" ry="13" fill="#D2CDC5"/>
+  <ellipse cx="200" cy="450" rx="52" ry="9" fill="#BFB8AE"/>
+</svg>
