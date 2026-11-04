@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-labelledby="t">
+  <title id="t">기본형 자동급식기 일러스트 (임시 이미지)</title>
+  <defs>
+    <linearGradient id="b-body" x1="0" x2="1">
+      <stop offset="0" stop-color="#FCFAF6"/><stop offset=".5" stop-color="#EFE8DE"/><stop offset="1" stop-color="#D3C7B7"/>
+    </linearGradient>
+    <linearGradient id="b-lid" x1="0" x2="1">
+      <stop offset="0" stop-color="#F6F1EA"/><stop offset=".6" stop-color="#E4DACD"/><stop offset="1" stop-color="#C9BCAA"/>
+    </linearGradient>
+    <linearGradient id="b-steel" x1="0" x2="1">
+      <stop offset="0" stop-color="#ECE9E4"/><stop offset=".3" stop-color="#BDB7AE"/><stop offset=".55" stop-color="#F6F4F0"/><stop offset="1" stop-color="#9C958B"/>
+    </linearGradient>
+    <linearGradient id="b-win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6B5B4C" stop-opacity=".10"/><stop offset="1" stop-color="#6B5B4C" stop-opacity=".26"/>
+    </linearGradient>
+    <radialGradient id="b-shadow">
+      <stop offset="0" stop-color="#292722" stop-opacity=".32"/><stop offset="1" stop-color="#292722" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="200" cy="476" rx="160" ry="18" fill="url(#b-shadow)"/>
+  <rect x="96" y="96" width="208" height="372" rx="44" fill="url(#b-body)"/>
+  <rect x="104" y="118" width="8" height="320" rx="4" fill="#fff" opacity=".55"/>
+  <rect x="90" y="70" width="220" height="52" rx="26" fill="url(#b-lid)"/>
+  <rect x="100" y="76" width="150" height="6" rx="3" fill="#fff" opacity=".6"/>
+  <rect x="150" y="134" width="100" height="26" rx="13" fill="#292722" opacity=".06"/>
+  <circle cx="172" cy="147" r="6.5" fill="#FBF9F5" stroke="#B9AA99"/>
+  <circle cx="200" cy="147" r="6.5" fill="#FBF9F5" stroke="#B9AA99"/>
+  <circle cx="228" cy="147" r="6.5" fill="#FBF9F5" stroke="#B9AA99"/>
+  <rect x="134" y="180" width="132" height="146" rx="26" fill="url(#b-win)"/>
+  <g fill="#7A6250" opacity=".45">
+    <ellipse cx="160" cy="306" rx="7" ry="5"/><ellipse cx="176" cy="312" rx="7" ry="5"/><ellipse cx="193" cy="304" rx="7" ry="5"/>
+    <ellipse cx="210" cy="312" rx="7" ry="5"/><ellipse cx="227" cy="305" rx="7" ry="5"/><ellipse cx="243" cy="311" rx="7" ry="5"/>
+    <ellipse cx="168" cy="296" rx="7" ry="5"/><ellipse cx="202" cy="294" rx="7" ry="5"/><ellipse cx="236" cy="295" rx="7" ry="5"/>
+  </g>
+  <path d="M124 362h152a22 22 0 0 1 22 22v72H102v-72a22 22 0 0 1 22-22z" fill="#292722" opacity=".07"/>
+  <rect x="182" y="364" width="36" height="20" rx="7" fill="#292722" opacity=".2"/>
+  <ellipse cx="200" cy="452" rx="80" ry="20" fill="url(#b-steel)"/>
+  <ellipse cx="200" cy="448" rx="63" ry="13" fill="#D2CDC5"/>
+  <ellipse cx="200" cy="450" rx="52" ry="9" fill="#BFB8AE"/>
+</svg>
